@@ -15,4 +15,5 @@
 //  */
 //
 // require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';
-echo phpinfo();
+echo "hello every one";
+?>
