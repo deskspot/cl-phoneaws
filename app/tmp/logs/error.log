@@ -1,0 +1,56 @@
+2016-03-03 16:44:36 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /cl2.deskspot.jp/
+Stack Trace:
+#0 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\cl2.deskspot.jp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\cl2.deskspot.jp\index.php(41): require('C:\\wamp\\www\\cl2...')
+#6 {main}
+2016-03-03 16:46:32 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /cl2.deskspot.jp/
+Stack Trace:
+#0 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\cl2.deskspot.jp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\cl2.deskspot.jp\index.php(41): require('C:\\wamp\\www\\cl2...')
+#6 {main}
+2016-03-03 16:46:35 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /cl2.deskspot.jp/
+Stack Trace:
+#0 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\cl2.deskspot.jp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\cl2.deskspot.jp\index.php(41): require('C:\\wamp\\www\\cl2...')
+#6 {main}
+2016-03-03 16:46:58 Error: [MissingComponentException] Component class ToolbarComponent could not be found.
+Exception Attributes: array (
+  'class' => 'ToolbarComponent',
+  'plugin' => 'DebugKit',
+)
+Request URL: /cl2.deskspot.jp/
+Stack Trace:
+#0 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('DebugKit.Toolba...', Array)
+#1 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(PagesController))
+#2 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\wamp\www\cl2.deskspot.jp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#4 C:\wamp\www\cl2.deskspot.jp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 C:\wamp\www\cl2.deskspot.jp\index.php(41): require('C:\\wamp\\www\\cl2...')
+#6 {main}
